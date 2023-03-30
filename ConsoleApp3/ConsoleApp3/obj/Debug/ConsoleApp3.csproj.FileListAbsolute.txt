@@ -1,0 +1,19 @@
+C:\Users\media\OneDrive\Desktop\nou.v\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\Proiect piu\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+E:\Proiect piu\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+E:\Proiect piu\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\zghibarta.elena\Proiect piu\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\zghibarta.elena\Proiect piu\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\zghibarta.elena\Proiect piu\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\zghibarta.elena\Proiect piu\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\zghibarta.elena\Proiect piu\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\zghibarta.elena\Proiect piu\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\zghibarta.elena\Proiect piu\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\zghibarta.elena\Proiect piu\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\media\OneDrive\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\media\OneDrive\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\media\OneDrive\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\media\OneDrive\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\media\OneDrive\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\media\OneDrive\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\media\OneDrive\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
